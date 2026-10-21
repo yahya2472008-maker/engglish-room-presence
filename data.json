@@ -1,0 +1,200 @@
+{
+    "packageSize": 4,
+
+    "students": [
+        {
+            "name": "Harits",
+            "packageSize": 4,
+            "cycle": 1
+        },
+        {
+            "name": "Vino",
+            "packageSize": 4,
+            "cycle": 1
+        },
+        {
+            "name": "Ikram",
+            "packageSize": 4,
+            "cycle": 1
+        },
+        {
+            "name": "Dzaki",
+            "packageSize": 4,
+            "cycle": 1
+        },
+        {
+            "name": "Omar",
+            "packageSize": 4,
+            "cycle": 1
+        },
+        {
+            "name": "Abdul",
+            "packageSize": 4,
+            "cycle": 1
+        },
+        {
+            "name": "Rizki",
+            "packageSize": 4,
+            "cycle": 1
+        },
+        {
+            "name": "Affan",
+            "packageSize": 4,
+            "cycle": 1
+        },
+        {
+            "name": "Raisa",
+            "packageSize": 4,
+            "cycle": 1
+        },
+        {
+            "name": "Fais",
+            "packageSize": 4,
+            "cycle": 1
+        },
+        {
+            "name": "Satria",
+            "packageSize": 4,
+            "cycle": 1
+        },
+        {
+            "name": "Wisnu",
+            "packageSize": 4,
+            "cycle": 1
+        },
+        {
+            "name": "Ryan",
+            "packageSize": 4,
+            "cycle": 1
+        },
+        {
+            "name": "Fadhil",
+            "packageSize": 4,
+            "cycle": 1
+        },
+        {
+            "name": "Abdil",
+            "packageSize": 4,
+            "cycle": 1
+        },
+        {
+            "name": "Mumtaz",
+            "packageSize": 4,
+            "cycle": 1
+        },
+        {
+            "name": "Nabil",
+            "packageSize": 4,
+            "cycle": 1
+        },
+        {
+            "name": "Rizky",
+            "packageSize": 4,
+            "cycle": 1
+        },
+        {
+            "name": "Rantizi",
+            "packageSize": 4,
+            "cycle": 1
+        },
+        {
+            "name": "R Fadhil",
+            "packageSize": 4,
+            "cycle": 1
+        },
+        {
+            "name": "Zul",
+            "packageSize": 4,
+            "cycle": 1
+        },
+        {
+            "name": "Usman",
+            "packageSize": 4,
+            "cycle": 1
+        }
+    ],
+
+    "schedule": {
+        "Senin": {
+            "Sore": [
+                "Harits",
+                "Vino",
+                "Ikram",
+                "Dzaki",
+                "Omar"
+            ],
+            "Maghrib": [
+                "Abdul",
+                "Rizki"
+            ]
+        },
+
+        "Selasa": {
+            "Sore": [
+                "Affan",
+                "Raisa"
+            ],
+            "Maghrib": [
+                "Fais",
+                "Satria",
+                "Wisnu",
+                "Ryan"
+            ]
+        },
+
+        "Rabu": {
+            "Sore": [
+                "Fadhil",
+                "Dzaki",
+                "Abdil",
+                "Mumtaz"
+            ],
+            "Maghrib": [
+                "Nabil",
+                "Ryan"
+            ]
+        },
+
+        "Kamis": {
+            "Sore": [
+                "Fadhil",
+                "Harits",
+                "Vino",
+                "Ikram",
+                "Omar"
+            ],
+            "Maghrib": [
+                "Fais",
+                "Satria",
+                "Wisnu"
+            ]
+        },
+
+        "Jumat": {
+            "Sore": [
+                "Abdul",
+                "Abdil",
+                "Rizky",
+                "Mumtaz"
+            ],
+            "Maghrib": [
+                "Rantizi",
+                "Nabil",
+                "R Fadhil"
+            ]
+        },
+
+        "Sabtu": {
+            "Full Private": [
+                "Zul",
+                "Usman"
+            ]
+        },
+
+        "Minggu": {
+            "Full Private": []
+        }
+    },
+
+    "teacherLocation": null
+}
